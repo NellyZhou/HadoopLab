@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalLab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinalLab_jar</output-path>
+    <root id="archive" name="FinalLab.jar">
+      <element id="module-output" name="FinalLab" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.6/ansj_seg-5.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/java/nlp-lang-1.7.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

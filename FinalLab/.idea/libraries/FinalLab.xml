@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="FinalLab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/FinalLab_jar/FinalLab.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/FinalLab_jar/FinalLab.jar!/" />
+    </SOURCES>
+  </library>
+</component>
